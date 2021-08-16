@@ -1,0 +1,5 @@
+This is my first game project scripts 
+cameracontroller.cs makes the camera follow the player 
+in player controller we have a counter of collectables, congratulations text(when you end the game), and the control of the player WASD input
+and the rotate files make my collectables spin.
+I made in unity, im starting now to make games!
